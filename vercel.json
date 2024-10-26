@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/me", "destination": "https://vercel.com/api/v2/registration/login-with-github?landingPage=%2F&mode=login&next=https://vercel.com/api/vercel-auth?redirectUrl=https%3A%2F%2Fnextjs.org%2Fconf%2Fapi%2Fauth%2Fverify%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFpZWNlekBnbWFpbC5jb20iLCJpYXQiOjE3Mjk5NTMzNTQsImV4cCI6MTcyOTk1Mzk1NH0.4oNSrHyvKDMs1yE4ktF28n2AdOVJ4b-8xRKF4LmHZWc%25%32%36destination=.gg.com", "permanent": false }
+  ]
+}
